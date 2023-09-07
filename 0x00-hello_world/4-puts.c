@@ -1,4 +1,4 @@
-#include <std.io>
+#include <stdio.h>
 
 /**
  * main - this function houses every program code
