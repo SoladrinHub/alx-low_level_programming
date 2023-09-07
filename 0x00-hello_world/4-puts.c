@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - this function houses every program code
+ * main - This function houses every program code
  *
- * Return: this will return zero
+ * Return: This will return zero
  */
 
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle);
+	puts("\"Programming is like building a multilingual puzzle");
 	return(0);
 }
