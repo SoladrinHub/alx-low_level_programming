@@ -15,9 +15,9 @@ int main(void)
 	while (a < 50)
 	{
 		if (a == 0)
-			printf(", %d", b);
+			printf("%d", b);
 		else if (a == 1)
-			printf("%d", c);
+			printf(", %d", c);
 		else
 		{
 			c += b;
