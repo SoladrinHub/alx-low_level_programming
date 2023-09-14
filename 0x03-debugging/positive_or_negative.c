@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-/**
- * positive_or_negative - test pos or neg
- * @i: test
- * Return: test
- */
-
 void positive_or_negative(int i)
 {
 	if (i > 0)
